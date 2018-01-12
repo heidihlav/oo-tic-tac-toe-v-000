@@ -9,3 +9,5 @@ end
 
 game = TicTacToe.new
 game
+
+game.play
